@@ -1,7 +1,7 @@
 aPackageInfo = [
-	:name 		= "The First Package",
-	:description	= "Our first package using the RingPM",
-	:folder		= "firstpackage",
+	:name 		= "The Second Package",
+	:description	= "Our second package using the RingPM",
+	:folder		= "secondpackage",
 	:developer  	= "Mahmoud Fayed",
 	:email		= "msfclipper@yahoo.com",
 	:license	= "MIT License",
