@@ -9,4 +9,7 @@ aPackageInfo = [
 	:files 		= [
 		"test.ring"
 	]
+	:libs		= [
+		[:name = "firstpackage", :version = "1.0.0"]
+	]
 ]
