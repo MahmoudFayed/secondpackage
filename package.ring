@@ -11,7 +11,6 @@ aPackageInfo = [
 		"test.ring"
 	],	
 	:libs		= [
-		[:name = "firstpackage", :version = "1.0.0",
-		 :providerUserName = "mahmoudfayed"]
+		[:name = "firstpackage", :version = "1.0.0"]
 	]
 ]
