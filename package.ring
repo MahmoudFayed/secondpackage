@@ -12,5 +12,6 @@ aPackageInfo = [
 	],	
 	:libs		= [
 		[:name = "firstpackage", :version = "1.0.0"]
-	]
+	],
+	:run = "ring test.ring"
 ]
